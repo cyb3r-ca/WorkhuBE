@@ -18,13 +18,19 @@ UI/UX
   4. a Block Ribbon lock (to pin the ribbon always visible)
 
 ## Workhub-BE with Black Handle Only
-![Workhub-BE Example - Black](assets/WokhuBE%20Example%20(Handle%20Only)%20-%20Black.png "Workhub-BE Example - Black")
+![Workhub-BE Handle Only Example - Black](assets/WokhuBE%20Example%20(Handle%20Only)%20-%20Black.png "Workhub-BE Handle Only Example - Black")
 
 ## Workhub-BE with Workspace Black Ribbon
-![Workhub-BE Example - Black](assets/WokhuBE%20Example%20-%20Black.png "Workhub-BE Example - Black")
+![Workhub-BE Workspace Ribbon - Black](assets/WokhuBE%20Example%20-%20Black.png "Workhub-BE Workspace Ribbon - Black")
+
+## Workhub-BE with White Workspace Central 
+![Workhub-BE Workspace Central - Black](assets/WorkhuBE%20Workspaces%20Central%20-%20Black.png "Workhub-BE Workspace Central - Black")
 
 ## Workhub-BE with White Handle Only
-![Workhub-BE Example - White](assets/WokhuBE%20Example%20(Handle%20Only)%20-%20White.png "Workhub-BE Example - White")
+![Workhub-BE Handle Only Example - White](assets/WokhuBE%20Example%20(Handle%20Only)%20-%20White.png "Workhub-BE Handle Only Example - White")
 
 ## Workhub-BE with Workspace White Ribbon
-![Workhub-BE Example - White](assets/WokhuBE%20Example%20-%20White.png "Workhub-BE Example - White")
+![Workhub-BE Workspace Ribbon - White](assets/WokhuBE%20Example%20-%20White.png "Workhub-BE Workspace Ribbon - White")
+
+## Workhub-BE with White Workspace Central 
+![Workhub-BE Workspace Central - White](assets/WorkhuBE%20Workspaces%20Central%20-%20White.png "Workhub-BE Workspace Central - White")
