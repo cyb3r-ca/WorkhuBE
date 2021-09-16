@@ -16,7 +16,7 @@ UI/UX
   2. a set of Workspace Web Apps (simply Bookmarks (within a Workspace folder) with their downloaded data (social image, favicon, icons))
   3. a Settings button
 
-![Workhub-BE Example - Black](../Workhub-BE/assets/WokhuBE%20Example%20-%20Black.png "Workhub-BE Example - Black")
+![Workhub-BE Example - Black](../assets/WokhuBE%20Example%20-%20Black.png "Workhub-BE Example - Black")
 
-![Workhub-BE Example - White](../Workhub-BE/assets/WokhuBE%20Example%20-%20White.png "Workhub-BE Example - White")
+![Workhub-BE Example - White](../assets/WokhuBE%20Example%20-%20White.png "Workhub-BE Example - White")
 
