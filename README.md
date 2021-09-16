@@ -1,6 +1,6 @@
 # WorkhuBE
 
-Workhub Browser Extension
+## Workhub Browser Extension
 
 * Use Bookmarks as only data
 * Une first degree folders within the %ROOT_WBE_BOOKMARKS_FOLDER% as the Workspaces
@@ -9,7 +9,7 @@ Workhub Browser Extension
   * It adds a HTML panel as the first element in the document
     * The Workspace Ribbon panel is fixable (lock) or hidable (unlock)
 
-UI/UX
+## UI/UX
 
 * a small handle is always visible at the top (or a certain side of the screen?)
 * The first component to appear when we click on the handle is the Workspaces Central Panel, with the following:
@@ -37,23 +37,23 @@ UI/UX
 
 # Visual Examples
 
-## WorkhuBE black Workspace Central Panel
+## WorkhuBE black Workspace Central Panel (Black)
 ![WorkhuBE Workspace Central - Black](assets/WorkhuBE%20Workspaces%20Central%20-%20Black.png "WorkhuBE Workspace Central - Black")
 
-## WorkhuBE black Workspace Ribbon 
+## WorkhuBE black Workspace Ribbon (Black)
 ![WorkhuBE Workspace Ribbon - Black](assets/WorkhuBE%20Ribbon%20-%20Black.png "WorkhuBE Workspace Ribbon - Black")
 
 
-## WorkhuBE Example with Black Workspace Ribbon
+## WorkhuBE Example with Black Workspace Ribbon (Black)
 ![WorkhuBE Workspace Ribbon - Black](assets/WokhuBE%20Example%20-%20Black.png "WorkhuBE Workspace Ribbon - Black")
 
 
-## WorkhuBE white Workspace Central 
+## WorkhuBE white Workspace Central (White)
 ![WorkhuBE Workspace Central - White](assets/WorkhuBE%20Workspaces%20Central%20-%20White.png "WorkhuBE Workspace Central - White")
 
-## WorkhuBE white Workspace Ribbon 
+## WorkhuBE white Workspace Ribbon (White)
 ![WorkhuBE Workspace Ribbon - White](assets/WorkhuBE%20Ribbon-%20White.png "WorkhuBE Workspace Ribbon - White")
 
-## WorkhuBE Example with White Workspace Ribbon
+## WorkhuBE Example with White Workspace Ribbon (White)
 ![WorkhuBE Workspace Ribbon - White](assets/WokhuBE%20Example%20-%20White.png "WorkhuBE Workspace Ribbon - White")
 
