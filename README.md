@@ -20,16 +20,16 @@ UI/UX
 ## Workhub-BE with Black Handle Only
 ![Workhub-BE Handle Only Example - Black](assets/WokhuBE%20Example%20(Handle%20Only)%20-%20Black.png "Workhub-BE Handle Only Example - Black")
 
-## Workhub-BE with Workspace Black Ribbon
+## Workhub-BE with Black Workspace Ribbon
 ![Workhub-BE Workspace Ribbon - Black](assets/WokhuBE%20Example%20-%20Black.png "Workhub-BE Workspace Ribbon - Black")
 
-## Workhub-BE with White Workspace Central 
+## Workhub-BE with Black Workspace Central 
 ![Workhub-BE Workspace Central - Black](assets/WorkhuBE%20Workspaces%20Central%20-%20Black.png "Workhub-BE Workspace Central - Black")
 
 ## Workhub-BE with White Handle Only
 ![Workhub-BE Handle Only Example - White](assets/WokhuBE%20Example%20(Handle%20Only)%20-%20White.png "Workhub-BE Handle Only Example - White")
 
-## Workhub-BE with Workspace White Ribbon
+## Workhub-BE with White Workspace Ribbon
 ![Workhub-BE Workspace Ribbon - White](assets/WokhuBE%20Example%20-%20White.png "Workhub-BE Workspace Ribbon - White")
 
 ## Workhub-BE with White Workspace Central 
