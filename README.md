@@ -1,6 +1,6 @@
 # WorkhuBE
 
-Workhub Browser Extension
+## Workhub Browser Extension
 
 * Use Bookmarks as only data
 * Une first degree folders within the %ROOT_WBE_BOOKMARKS_FOLDER% as the Workspaces
@@ -9,7 +9,7 @@ Workhub Browser Extension
   * It adds a HTML panel as the first element in the document
     * The Workspace Ribbon panel is fixable (lock) or hidable (unlock)
 
-UI/UX
+## UI/UX
 
 * a small handle is always visible at the top (or a certain side of the screen?)
 * The first component to appear when we click on the handle is the Workspaces Central Panel, with the following:
