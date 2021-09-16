@@ -19,4 +19,3 @@ UI/UX
 ![Workhub-BE Example - Black](assets/WokhuBE%20Example%20-%20Black.png "Workhub-BE Example - Black")
 
 ![Workhub-BE Example - White](assets/WokhuBE%20Example%20-%20White.png "Workhub-BE Example - White")
-
