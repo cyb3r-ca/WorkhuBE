@@ -34,26 +34,3 @@
 5. The Workspaces Central is 75px of height (including handle)
 6. The Workspace Ribbon is 125px of height (including handle)
    1.  The web apps visual resources (favicons, social banner) are 64px square
-
-# Visual Examples
-
-## WorkhuBE black Workspace Central Panel (Black)
-![WorkhuBE Workspace Central - Black](assets/WorkhuBE%20Workspaces%20Central%20-%20Black.png "WorkhuBE Workspace Central - Black")
-
-## WorkhuBE black Workspace Ribbon (Black)
-![WorkhuBE Workspace Ribbon - Black](assets/WorkhuBE%20Ribbon%20-%20Black.png "WorkhuBE Workspace Ribbon - Black")
-
-
-## WorkhuBE Example with Black Workspace Ribbon (Black)
-![WorkhuBE Workspace Ribbon - Black](assets/WokhuBE%20Example%20-%20Black.png "WorkhuBE Workspace Ribbon - Black")
-
-
-## WorkhuBE white Workspace Central (White)
-![WorkhuBE Workspace Central - White](assets/WorkhuBE%20Workspaces%20Central%20-%20White.png "WorkhuBE Workspace Central - White")
-
-## WorkhuBE white Workspace Ribbon (White)
-![WorkhuBE Workspace Ribbon - White](assets/WorkhuBE%20Ribbon-%20White.png "WorkhuBE Workspace Ribbon - White")
-
-## WorkhuBE Example with White Workspace Ribbon (White)
-![WorkhuBE Workspace Ribbon - White](assets/WokhuBE%20Example%20-%20White.png "WorkhuBE Workspace Ribbon - White")
-
