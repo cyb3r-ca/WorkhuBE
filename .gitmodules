@@ -1,0 +1,9 @@
+[submodule "_submodules/session-manager"]
+	path = _submodules/session-manager
+	url = git@github.com:SerafDosSantos/session-manager.git
+[submodule "_submodules/yet-another-speed-dial"]
+	path = _submodules/yet-another-speed-dial
+	url = git@github.com:Cyb3rStudio/yet-another-speed-dial.git
+[submodule "_submodules/editor.js"]
+	path = _submodules/editor.js
+	url = git@github.com:Cyb3rStudio/editor.js.git
